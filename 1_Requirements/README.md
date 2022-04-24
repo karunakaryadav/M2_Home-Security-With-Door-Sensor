@@ -9,18 +9,18 @@ similarly for open of door there will be supply of 5V that i have made so that L
 __REQUIREMENTS__:
 
 **High Level Requirements**:
-|ID|             |DESCRIPTION|                                                                |STATUS|
-|----|---|----|
-|H_01  |   | User get idea either door open or closed |                                       |Implemented|
-|H_02|     | gets Door Status through specific indication (through LED) |                     | Implemented|
-|H_03  |    |Automatic opening and closing of Door when object/User in front of Door.|           |Future|
+|  ID     |             DESCRIPTION                                                   |       STATUS     |
+|----     |---------------------------------------------------------------------------|------------------|
+|  H_0    | User get idea either door open or closed                                  |    Implemented   |
+|  H_02   | gets Door Status through specific indication (through LED)                |    Implemented   |
+|  H_03   | Automatic opening and closing of Door when object/User in front of Door   |     Future|
 
 **Low Level Requirements**:
-|ID|             |DESCRIPTION|                                              |STATUS|  
-|----|---|---|
-|L_01|          |Gets Indication of Open Door ( High LED ) |              | Implemented|
-|L_02|          |Gets Indication of Closed Door ( Low LED ) |               | Implemented|
-|L_03|          |Getting Indication through Specific sound ( Alarm 🚨 )	|      |Pending|
+|   ID     |             DESCRIPTION                                            |     STATUS     |  
+|----      |----------------------------------------------------------------    |----------------|
+|L_01      |          Gets Indication of Open Door ( High LED )                 |    Implemented |
+|L_02      |          Gets Indication of Closed Door ( Low LED )                |    Implemented |
+|L_03      |          Getting Indication through Specific sound ( Alarm 🚨 )   	|    Pending      |
 
 __4'W 1'H__:-
 **What**:
