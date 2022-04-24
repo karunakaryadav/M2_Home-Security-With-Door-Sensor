@@ -9,16 +9,18 @@ similarly for open of door there will be supply of 5V that i have made so that L
 __REQUIREMENTS__:
 
 **High Level Requirements**:
-|ID|          |DESCRIPTION|                                                                |STATUS|
-_01      User get idea either door open or closed                                        Implemented
-_02      gets Door Status through specific indication (through LED)                       Implemented
-_03     Automatic opening and closing of Door when object/User in front of Door.           Future
+|ID|             |DESCRIPTION|                                                                |STATUS|
+|-----|           |-----------|                                                            |-----------|
+|_01  |   | User get idea either door open or closed |                                       |Implemented|
+|_02|     | gets Door Status through specific indication (through LED) |                     | Implemented|
+|_03  |    |Automatic opening and closing of Door when object/User in front of Door.|           |Future|
 
 **Low Level Requirements**:
-|ID|             |DESCRIPTION|                                              |STATUS|
-_01          Gets Indication of Open Door ( High LED )                 Implemented
-_02          Gets Indication of Closed Door ( Low LED )                 Implemented
-_03          Getting Indication through Specific sound ( Alarm 🚨 )	      Pending
+|ID|             |DESCRIPTION|                                              |STATUS|  
+|-----|          |---------------------|                                |----------|
+|_01|          |Gets Indication of Open Door ( High LED ) |              | Implemented|
+|_02|          \Gets Indication of Closed Door ( Low LED ) |               | Implemented|
+|_03|          |Getting Indication through Specific sound ( Alarm 🚨 )	|      |Pending|
 
 __4'W 1'H__:-
 **What**:
