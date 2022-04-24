@@ -1,4 +1,5 @@
-__ TEST CASES__:
+# TEST CASES:-
+
 | ID	  |         Description                  |	  Exp i/P   |     Exp O/P	 |      PASS/FAIL   |
 |-------|--------------------------------------|--------------|--------------|------------------|
 |  H_01 |	   At the stage of Opening of Door   |	 Open door  |   High LED	 |      PASS        |
