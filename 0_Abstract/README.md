@@ -1,4 +1,4 @@
-__ABSTRACT__:
+# ABSTRACT:-
 Door sensor for security purposes are widely used now.
 An door sensor based on electrical and electronics circuit technology is used to develop the security system as well as automatic light switching system. 
 This security system with door sensor which could benefit every safer environment and single individual.
