@@ -1,4 +1,5 @@
 #DESCREPTION:
+
 Here is a Project developed as mini project in embedded c as Home Security With Door Sensor.
 Door sensors are an essential component of your home security system In this mini project.
 you can get status of our Home Door which is closed or open.
