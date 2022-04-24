@@ -24,10 +24,10 @@ similarly for open of door there will be supply of 5V that i have made so that L
 |L_02      |          Gets Indication of Closed Door ( Low LED )                |    Implemented |
 |L_03      |          Getting Indication through Specific sound ( Alarm 🚨 )   	|    Pending      |
 
-__4'W 1'H__:-
+# 4'W 1'H:-
 ## What:
 * Door sensors are an essential component of your home security system: they let you know about the Door which is open or closed
- # Why:
+ ## Why:
 * In order to get door status that if door is open then we can assume that someone is entering or going out
  ## when:
    * Anytime we can use this sensors as this are automatic door sensors which are connected to door to get the status of door
