@@ -6,3 +6,52 @@ Here is a Project developed as mini project in embedded c as Home Security With 
 
 Door sensor for security purposes are widely used now. An door sensor based on electrical and electronics circuit technology is used to develop the security system as well as automatic light switching system. This security system with door sensor which could benefit every safer environment and single individual. Furthermore, the system is developed with safety environment when switching ON or OFF the light during the room door open or door close.Basically, this system is designed for security purpose to secure the home.
 The system which is the designed Home Security using door sensor is designed considering some factors such as economy, availability of components and efficiency, compatibility, portability and also durability.The general operation of this system and performance is dependent on the opening and closing of the door.
+
+__REQUIREMENTS__:
+
+**High Level Requirements**:
+|  ID   |                     DESCRIPTION                                           |        STATUS    |
+|-------|-----------------------------------------------                            |------------------|
+|  H_01 |    User gets idea about Door status either open or closed                 | Implemented      |
+|  H_02 |   gets Door Status through specific indication (through LED)              | Implemented      |
+|  H_03 |   Automatic opening and closing of Door when object/User in front of Door.|  FUTURE          |
+
+**Low Level Requirements**:
+
+|  ID  |            DESCRIPTION                                                     |    STATUS        |
+|------|----------------------------------------------------------------------------|------------------|
+| L_01 |      Gets Indication of Open Door ( High LED )                             | Implemented      |
+| L_02 |      Gets Indication of Closed Door ( Low LED )                            | Implemented      |
+| L_03 |  Getting Indication through Specific sound ( Alarm 🚨 )                    |	Pending          |
+
+__ TEST CASES __:
+
+|  ID    |              DESCRIPTION                                           |     INPUT       |      OUTPUT     |   PASS/FAIL    |
+|--------|------------------------------------------------------------------- |---------------- |-----------------|----------------|
+| K_01   |             At the stage of Opening of Door                        |    	Open door   |    	High LED	  |        PASS    |
+| K_02   |             At the stage of Closing of Door	                      |      Close door	|       Low LED   |       	PASS   |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
