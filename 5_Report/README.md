@@ -13,8 +13,8 @@ The system which is the designed Home Security using door sensor is designed con
 |  ID   |                     DESCRIPTION                                           |        STATUS    |
 |-------|-----------------------------------------------                            |------------------|
 |  H_01 |    User gets idea about Door status either open or closed                 | Implemented      |
-|  H_02 |   gets Door Status through specific indication (through LED)              | Implemented      |
-|  H_03 |   Automatic opening and closing of Door when object/User in front of Door.|  FUTURE          |
+|  H_02 |   gets Door Status through specific indication                            | Implemented      |
+|  H_03 |   Automatic opening and closing of Door when object in front of Door.     |  FUTURE          |
 
 **Low Level Requirements**:
 
